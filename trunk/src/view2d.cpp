@@ -1,4 +1,4 @@
-#include "view2d.h"
+#include "..\include\view2d.h"
 #include <tchar.h>
 #include <stdio.h>
 #include <cassert>

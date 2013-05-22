@@ -12,6 +12,9 @@
 #include <cassert>
 #include <algorithm>
 
+#pragma comment (lib, "opengl32.lib")
+#pragma comment (lib, "glu32.lib")
+
 
 namespace kami2dlib
 {
